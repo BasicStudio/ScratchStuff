@@ -11,4 +11,4 @@ This is a collection of items to allow you setup scratch 2.0 professionally
 
 ### [Download](https://mega.nz/file/PssiUQ4a#hroT0rmH5DOJ1PKDSADDsfFRQyyQQjPhvEjtwmVtnEE)
 
->  WARNING: The first time running the SWF to EXE Converter will show an error but its nothing to worry about
+>  WARNING: To use the SWF to EXE Converter, be sure to click ok while opening it then click "Clear Input" before adding your swf and converting it 
